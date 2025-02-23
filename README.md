@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a backend programmer fluent in Java, Kotlin and Scala. My personal github account doesn't show my contribution to companies because I've been using a separate account 
+This is not my main github account. 
+
+Back in 2019 I've used this account for contributing in an enterprise repository which is private. So my heatmap reflects that activity back in 2019.
+
+Other accounts that I own
+
+ - [gaston-martin](https://github.com/gaston-martin)  (My main account)
+ - [gastonmartin77](https://github.com/gastonmartin77) (An account I've used for contributing in a private repository in the past, that I'm still struggling to recover so my heatmap is updated for such private contributions.
+
